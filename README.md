@@ -1,0 +1,1 @@
+# AffdexFunctionApp32bit
